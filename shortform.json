@@ -1,0 +1,83 @@
+[
+    {
+        "short": "hnay",
+        "long" : "hôm nay"
+    },
+    {
+        "short": "k",
+        "long": "không"
+    },
+    {
+        "short": "ko",
+        "long": "không"
+    },
+    {
+        "short": "hqua",
+        "long": "hôm qua"
+    },
+    {
+        "short": "htrc",
+        "long": "hôm trước"
+    },
+    {
+        "short": "bh",
+        "long": "bây giờ"
+    },
+    {
+        "short": "bg",
+        "long": "bây giờ"
+    },
+    {
+        "short": "h",
+        "long": "giờ"
+    },
+    {
+        "short": "cn",
+        "long": "công nghệ"
+    },
+    {
+        "short": "khg",
+        "long": "không"
+    },
+    {
+        "short": "ncl",
+        "long": "nói chung là"
+    },
+    {
+        "short": "đc",
+        "long": "được"
+    },
+    {
+        "short": "dc",
+        "long": "được"
+    },
+    {
+        "short": "kbh",
+        "long": "không bao giờ"
+    },
+    {
+        "short": "qtqd",
+        "long" : "quá trời quá đất"
+    },
+    {
+        "short": "nma",
+        "long": "nhưng mà"
+    },
+    {
+        "short": "nhma",
+        "long": "nhưng mà"
+    },
+    {
+        "short": "bn",
+        "long": "bao nhiêu"
+    },
+    {
+        "short": "bt",
+        "long": "bình thường"
+    },
+    {
+        "short": "",
+        "long" : ""
+    }
+
+]
