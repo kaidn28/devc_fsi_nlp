@@ -130,5 +130,21 @@
     {
         "english": "bye",
         "vietnamese": "tạm biệt"
+    },
+    {
+        "english": "care",
+        "vietnamese": "quan tâm"
+    },
+    {
+        "english": "trash",
+        "vietnamese": "rác"
+    },
+    {
+        "english": "rage",
+        "vietnamese": "bực mình"
+    },
+    {
+        "english": "software",
+        "vietnamese": "phần mềm"
     }
 ]

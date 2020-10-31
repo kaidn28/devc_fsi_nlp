@@ -74,6 +74,14 @@
     {
         "short": "bt",
         "long": "bình thường"
+    },
+    {
+        "short": "ae",
+        "long": "anh em"
+    },
+    {
+        "short": "ql",
+        "long": "quản lý"
     }
 
 ]
